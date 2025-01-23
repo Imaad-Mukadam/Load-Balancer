@@ -39,5 +39,5 @@ Creating 2 VMs and adding a load Blancer on VMs
 
 *Creating First VM*(Web-1)
 
-![image alt]()
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/2dbf0b0c856c88c494057b3df10d3a73c47dd752/web-1-1.PNG)
 
