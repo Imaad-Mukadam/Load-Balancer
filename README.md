@@ -16,6 +16,8 @@ A static public (virtual) IP can be assigned thus making it a public load balanc
 
 Otherwise for private IP it is internal load balancer.
 
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/fe6d5b2ac3f7c5788d6d54807b0fafb7f431ba4f/loadbalancer.PNG)
+
 ## Load Balancer terms
 Typically terms for Load Balancers are
 
