@@ -51,3 +51,14 @@ Creating 2 VMs and adding a load Blancer on VMs
 
 ![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/55a2ae50ec676fc1b2c9ad76ca9726f3115c55c9/ports.PNG)
 
+*Do review and create now*
+
+## Step - 2
+
+*Create another Virtual Machine with same configurations*(Web-2)
+(Make sure you depoy both VMs in same avaibility set and Resource Group)
+
+Connect your Web-1 VM 
+
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/55a2ae50ec676fc1b2c9ad76ca9726f3115c55c9/ports.PNG)
+
