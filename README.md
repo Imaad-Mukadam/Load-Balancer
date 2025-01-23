@@ -64,4 +64,4 @@ Connect your Web-1 VM
 
 Now download the RDP file or use other method to connect
 
-![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/e20d18c6fed13a8323d016cc3e411814db34b010/connect-web-1.PNG)
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/f0df842b7fbce7a6777c22a280ed08ac59d3c71f/RDP.PNG)
