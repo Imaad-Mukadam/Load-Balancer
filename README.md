@@ -33,11 +33,11 @@ Typically terms for Load Balancers are
 
 *Outbound rules* - control outgoing traffic
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Step - 1
 
-Every screenshot should have some text explaining what the screenshot is about.
+Creating 2 VMs and adding a load Blancer on VMs
 
-Example below.
+*Creating First VM*(Web-1)
 
-*Ref 1: Network Diagram*
+![image alt]()
+
