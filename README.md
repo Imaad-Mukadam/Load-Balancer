@@ -60,5 +60,8 @@ Creating 2 VMs and adding a load Blancer on VMs
 
 Connect your Web-1 VM 
 
-![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/55a2ae50ec676fc1b2c9ad76ca9726f3115c55c9/ports.PNG)
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/e20d18c6fed13a8323d016cc3e411814db34b010/connect-web-1.PNG)
 
+Now download the RDP file or use other method to connect
+
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/e20d18c6fed13a8323d016cc3e411814db34b010/connect-web-1.PNG)
