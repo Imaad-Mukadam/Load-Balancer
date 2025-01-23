@@ -43,3 +43,6 @@ Creating 2 VMs and adding a load Blancer on VMs
 
 ![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/2dbf0b0c856c88c494057b3df10d3a73c47dd752/web-1-1.PNG)
 
+*Create a availibility set with any name*
+
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/ba45cb7da980a3e09670a5f31d7776e3050be24e/AvailabilitySet.PNG)
