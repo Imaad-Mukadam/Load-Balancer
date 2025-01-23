@@ -49,5 +49,5 @@ Creating 2 VMs and adding a load Blancer on VMs
 
 *Select these ports to access website we host on VM*
 
-![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/ba45cb7da980a3e09670a5f31d7776e3050be24e/AvailabilitySet.PNG)
+![image alt](https://github.com/Imaad-Mukadam/Load-Balancer/blob/55a2ae50ec676fc1b2c9ad76ca9726f3115c55c9/ports.PNG)
 
